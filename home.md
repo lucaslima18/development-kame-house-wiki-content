@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Configurações básicas do VIM
 description: 
 published: true
-date: 2023-12-05T12:43:30.802Z
+date: 2023-12-05T12:46:00.518Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T12:19:34.282Z
