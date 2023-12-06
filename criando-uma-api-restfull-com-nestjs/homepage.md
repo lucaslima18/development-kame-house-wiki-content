@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2023-12-06T08:34:38.913Z
+date: 2023-12-06T08:36:10.682Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T08:34:38.913Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-06T08:34:38.913Z
 
 # Criando uma API Restful
 
-> *Descrição: Este pequeno curso é uma coleção de anotações feitas durante o acompanhamento de algumas aulas do curso ****[Nest.js: criando uma API Restful](https://cursos.alura.com.br/course/nestjs-criando-api-resftul)** da plataforma alura. Ele foi feito por mim com o intuito de compartilhar conhecimento para que possamos assim, aprender juntos! vamos nessa?*
+> Descrição: Este pequeno curso é uma coleção de anotações feitas durante o acompanhamento de algumas aulas do curso [Nest.js: criando uma API Restful](https://cursos.alura.com.br/course/nestjs-criando-api-resftul) da plataforma alura. Ele foi feito por mim com o intuito de compartilhar conhecimento para que possamos assim, aprender juntos! vamos nessa?*
 > 
 
 ---
