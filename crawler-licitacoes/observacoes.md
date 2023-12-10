@@ -2,7 +2,7 @@
 title: Observações
 description: 
 published: true
-date: 2023-12-10T10:21:54.484Z
+date: 2023-12-10T10:22:03.297Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T10:18:19.069Z
@@ -35,11 +35,15 @@ Estes sõa os sites que se encontram dentro do padrão, portanto, todos estão c
 - https://lsa.fies.org.br/,
 - http://licitacao.sesi-to.com.br/
 
+<br>
+
 ### Sites fora do padrão
 - https://licitacoes.sistemafindes.org.br/
 - https://licitacao.fiepi.com.br/
 - http://177.190.134.242:8182/
 - https://www.rn.sesi.org.br/licitacoes-e-editais/
+
+<br>
 
 ### Sites fora do ar
 - http://licitacao.sesi-to.com.br/ 
