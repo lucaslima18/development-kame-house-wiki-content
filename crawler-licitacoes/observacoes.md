@@ -2,7 +2,7 @@
 title: Observações
 description: 
 published: true
-date: 2023-12-10T10:19:24.519Z
+date: 2023-12-10T10:19:42.876Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T10:18:19.069Z
@@ -22,4 +22,5 @@ Existem ainda sites que se encontram fora do ar, estes serão monitorados para q
 - https://www.rn.sesi.org.br/licitacoes-e-editais/
 
 ### Sites fora do ar
-http://licitacao.sesi-to.com.br/ 
+- http://licitacao.sesi-to.com.br/ 
+
