@@ -2,7 +2,7 @@
 title: Notas Técnicas
 description: Notas técnicas referentes ao projeto do crawler de licitações.
 published: true
-date: 2023-12-10T08:39:23.510Z
+date: 2023-12-10T08:41:39.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T08:36:34.401Z
@@ -27,3 +27,8 @@ REFORMA DA SALA DE RAIO X SESI SAÚDE,
 🔗 Documentos da licitação 👇🏻:
     - http://licitacoes.pe.sesi.org.br:8081/media/Edital_-_CC_14.2023.pdf,
     - http://licitacoes.pe.sesi.org.br:8081/media/Planilha_or%C3%A7ament%C3%A1ria.zip
+
+
+### Modelagem do banco da aplicação
+
+Diagrama de classe feito para representar o banco de dados da aplicação
