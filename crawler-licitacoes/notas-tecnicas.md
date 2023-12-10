@@ -2,14 +2,14 @@
 title: Notas Técnicas
 description: Notas técnicas referentes ao projeto do crawler de licitações.
 published: true
-date: 2023-12-10T08:46:30.204Z
+date: 2023-12-10T08:46:49.261Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T08:36:34.401Z
 ---
 
 # Notas Técnicas
-
+<br>
 ### Modelo de envio via telegram/email
 
 Modelo a ser enviado via telegram e email:
