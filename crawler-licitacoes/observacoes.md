@@ -2,7 +2,7 @@
 title: Observações
 description: 
 published: true
-date: 2023-12-10T10:19:07.296Z
+date: 2023-12-10T10:19:13.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T10:18:19.069Z
@@ -16,7 +16,6 @@ Durante o desenvolvimento da parte de RPA do projeto, pude observar que alguns s
 Existem ainda sites que se encontram fora do ar, estes serão monitorados para que seja feita a análise a partir do momento em que se encontrem funcionais.
 
 ### Sites fora do padrão
-
 https://licitacoes.sistemafindes.org.br/
 https://licitacao.fiepi.com.br/
 http://177.190.134.242:8182/
