@@ -2,7 +2,7 @@
 title: Observações
 description: 
 published: true
-date: 2023-12-10T10:18:31.748Z
+date: 2023-12-10T10:19:07.296Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T10:18:19.069Z
@@ -19,3 +19,8 @@ Existem ainda sites que se encontram fora do ar, estes serão monitorados para q
 
 https://licitacoes.sistemafindes.org.br/
 https://licitacao.fiepi.com.br/
+http://177.190.134.242:8182/
+https://www.rn.sesi.org.br/licitacoes-e-editais/
+
+### Sites fora do ar
+http://licitacao.sesi-to.com.br/ 
