@@ -2,7 +2,7 @@
 title: Observações
 description: 
 published: true
-date: 2023-12-10T10:21:16.915Z
+date: 2023-12-10T10:21:20.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T10:18:19.069Z
@@ -33,8 +33,6 @@ Estes sõa os sites que se encontram dentro do padrão, portanto, todos estão c
 - https://licitacao.fiero.org.br/,
 - https://lsa.fies.org.br/,
 - http://licitacao.sesi-to.com.br/
-
-
 
 ### Sites fora do padrão
 - https://licitacoes.sistemafindes.org.br/
