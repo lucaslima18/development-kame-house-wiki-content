@@ -2,7 +2,7 @@
 title: Observações
 description: 
 published: true
-date: 2023-12-10T10:24:50.770Z
+date: 2023-12-10T10:27:48.984Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T10:18:19.069Z
@@ -21,7 +21,7 @@ Os demais sites encontrados seguiram os padrões recomendados, abaixo pode ser c
 
 ### Sites Funcionais
 
-Estes sõa os sites que se encontram dentro do padrão, portanto, todos estão contemplados pelo projeto desde o final da primeira Sprint.
+Estes são os sites que se encontram dentro do padrão, portanto, todos estão contemplados pelo projeto desde o final da primeira Sprint.
 
 - https://licitacao.fiea.com.br/,
 - http://transparencia.sesiac.org.br/sistema/editais_transparencia/index.php?Casa=2,
