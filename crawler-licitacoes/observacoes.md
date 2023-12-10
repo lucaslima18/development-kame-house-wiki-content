@@ -2,7 +2,7 @@
 title: Observações
 description: 
 published: true
-date: 2023-12-10T10:21:20.071Z
+date: 2023-12-10T10:21:54.484Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T10:18:19.069Z
@@ -14,6 +14,7 @@ Durante o desenvolvimento da parte de RPA do projeto, pude observar que alguns s
 
 Existem ainda sites que se encontram fora do ar, estes serão monitorados para que seja feita a análise a partir do momento em que se encontrem funcionais.
 
+<br>
 
 ### Sites Funcionais
 
