@@ -2,7 +2,7 @@
 title: Observações
 description: 
 published: true
-date: 2023-12-10T10:21:04.914Z
+date: 2023-12-10T10:21:10.048Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T10:18:19.069Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-10T10:18:19.069Z
 
 # Observações
 
-### Site Funcionais
+### Sites Funcionais
 
 Estes sõa os sites que se encontram dentro do padrão, portanto, todos estão contemplados pelo projeto desde o final da primeira Sprint.
 
