@@ -2,7 +2,7 @@
 title: Notas Técnicas
 description: Notas técnicas referentes ao projeto do crawler de licitações.
 published: true
-date: 2023-12-10T08:41:39.809Z
+date: 2023-12-10T08:44:52.576Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T08:36:34.401Z
@@ -31,4 +31,6 @@ REFORMA DA SALA DE RAIO X SESI SAÚDE,
 
 ### Modelagem do banco da aplicação
 
-Diagrama de classe feito para representar o banco de dados da aplicação
+Diagrama de classe feito para representar o banco de dados da aplicação:
+
+![modelo-banco.png](/crawler-licitacoes/modelo-banco.png)
