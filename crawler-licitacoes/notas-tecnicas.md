@@ -2,7 +2,7 @@
 title: Notas Técnicas
 description: Notas técnicas referentes ao projeto do crawler de licitações.
 published: true
-date: 2023-12-11T11:02:08.340Z
+date: 2023-12-11T11:02:11.616Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-10T17:55:21.569Z

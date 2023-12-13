@@ -2,7 +2,7 @@
 title: Integrando Elasticsearch APM em aplicações Python
 description: 
 published: true
-date: 2023-12-06T14:45:40.452Z
+date: 2023-12-10T17:55:53.934Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T14:45:40.452Z

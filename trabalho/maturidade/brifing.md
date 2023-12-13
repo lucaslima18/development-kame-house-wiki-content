@@ -2,7 +2,7 @@
 title: Brifing
 description: 
 published: true
-date: 2023-12-11T12:14:13.085Z
+date: 2023-12-11T12:14:16.283Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-11T12:14:13.085Z

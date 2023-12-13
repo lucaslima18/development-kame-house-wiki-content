@@ -2,10 +2,10 @@
 title: Primeiros Passos
 description: 
 published: true
-date: 2023-12-10T17:55:36.238Z
+date: 2023-12-05T12:53:09.954Z
 tags: 
 editor: markdown
-dateCreated: 2023-12-05T14:44:59.580Z
+dateCreated: 2023-12-05T12:49:58.422Z
 ---
 
 # Primeiros Passos

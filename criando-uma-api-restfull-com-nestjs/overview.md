@@ -2,10 +2,10 @@
 title: Overview
 description: 
 published: true
-date: 2023-12-06T08:36:53.177Z
+date: 2023-12-10T17:55:44.692Z
 tags: 
 editor: markdown
-dateCreated: 2023-12-06T08:34:38.913Z
+dateCreated: 2023-12-06T13:48:19.170Z
 ---
 
 # Criando uma API Restful

@@ -2,7 +2,7 @@
 title: API + Front Documentation
 description: 
 published: true
-date: 2023-12-06T08:45:02.068Z
+date: 2023-12-10T17:55:58.536Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T14:45:04.076Z
