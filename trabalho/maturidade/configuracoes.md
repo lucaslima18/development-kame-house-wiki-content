@@ -2,7 +2,7 @@
 title: Configuração do projeto
 description: 
 published: true
-date: 2024-01-15T19:21:05.203Z
+date: 2024-01-15T19:21:11.927Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-15T18:11:53.164Z
@@ -85,4 +85,6 @@ $ rm -rf build
 
 // Repita o processo...
 ```
+
+
 
