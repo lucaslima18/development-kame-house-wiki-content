@@ -2,7 +2,7 @@
 title: Configuração do projeto
 description: 
 published: true
-date: 2024-01-15T19:00:18.732Z
+date: 2024-01-15T19:21:05.203Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-15T18:11:53.164Z
@@ -75,5 +75,14 @@ $ npm run migration:run
 
 // lembre fazer o processo do dump caso necessário aqui, ou rode seeds
 $ npm run start
+```
+
+caso dê algum problema no processo, tente:
+
+```sh
+$ rm -rf dist
+$ rm -rf build
+
+// Repita o processo...
 ```
 
