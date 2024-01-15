@@ -2,13 +2,20 @@
 title: Configuração do projeto
 description: 
 published: true
-date: 2024-01-15T18:18:22.365Z
+date: 2024-01-15T18:20:04.331Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-15T18:11:53.164Z
 ---
 
 # API
+- Acesso ao grafana:
+```txt
+User: adm
+Pass: dQLY8otQ0hx87I^MPWoK
+```
+
+- Versão do node: `16.18.1`
 
 - Salve em um arquivo `run.sh`, `run.txt`... whatever:
 ```sh
