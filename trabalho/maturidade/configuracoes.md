@@ -2,7 +2,7 @@
 title: Configuração do projeto
 description: 
 published: true
-date: 2024-01-15T18:20:11.928Z
+date: 2024-01-15T18:46:58.956Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-15T18:11:53.164Z
@@ -57,7 +57,7 @@ Caso não queira usar as seeds, utilize o [dump](https://drive.google.com/file/d
 Após baixar, utilize o comando:
 
 ```sh
-cat dump_mdigital_030423_10h19.sql | docker exec -i dev-db-1 /usr/bin/mysql -u root --password=root maturidade_digital
+$ cat dump_mdigital_030423_10h19.sql | docker exec -i dev-db-1 /usr/bin/mysql -u root --password=root maturidade_digital
 ```
 
 Acesso:
@@ -65,5 +65,11 @@ Acesso:
 ```txt
 User: mateus.bezerra@somosmesha.com
 Pass: Br!@3456
+```
+
+Para rodar a api:
+```sh
+$ npm run i
+$ npm run migration:
 ```
 
