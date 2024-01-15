@@ -2,7 +2,7 @@
 title: Configuração do projeto
 description: 
 published: true
-date: 2024-01-15T18:46:58.956Z
+date: 2024-01-15T18:53:50.782Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-15T18:11:53.164Z
@@ -70,6 +70,7 @@ Pass: Br!@3456
 Para rodar a api:
 ```sh
 $ npm run i
-$ npm run migration:
+$ npm run build
+$ npm run migration:run
 ```
 
