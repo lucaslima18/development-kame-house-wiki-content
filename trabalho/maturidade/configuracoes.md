@@ -2,7 +2,7 @@
 title: Configuração do projeto
 description: 
 published: true
-date: 2024-01-15T18:11:53.164Z
+date: 2024-01-15T18:18:22.365Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-15T18:11:53.164Z
@@ -37,5 +37,26 @@ docker run -d \
 --name redis \
 -p 6379:6379 \
 redis
+```
+
+rode com:
+
+```sh
+$ sh run {nome_do_arquivo}.{sh ou txt}
+```
+
+Caso não queira usar as seeds, utilize o [dump](https://drive.google.com/file/d/1hp2Nh6vdQEJQH0dzg6c8wgpzq-o1oQCe/view?pli=1)
+
+Após baixar, utilize o comando:
+
+```sh
+cat dump_mdigital_030423_10h19.sql | docker exec -i dev-db-1 /usr/bin/mysql -u root --password=root maturidade_digital
+```
+
+Acesso:
+
+```txt
+User: mateus.bezerra@somosmesha.com
+Pass: Br!@3456
 ```
 
