@@ -2,10 +2,10 @@
 title: Configuração do projeto
 description: 
 published: true
-date: 2024-01-15T19:21:11.927Z
+date: 2024-01-16T16:40:50.199Z
 tags: 
 editor: markdown
-dateCreated: 2024-01-15T18:11:53.164Z
+dateCreated: 2024-01-16T11:48:38.005Z
 ---
 
 # API
