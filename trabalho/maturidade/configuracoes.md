@@ -2,7 +2,7 @@
 title: Configuração do projeto
 description: 
 published: true
-date: 2024-01-19T13:57:57.377Z
+date: 2024-01-19T13:58:10.277Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T11:48:38.005Z
