@@ -2,7 +2,7 @@
 title: Configuração do projeto
 description: 
 published: true
-date: 2024-01-16T16:40:50.199Z
+date: 2024-01-19T13:57:57.377Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T11:48:38.005Z
@@ -57,7 +57,7 @@ Caso não queira usar as seeds, utilize o [dump](https://drive.google.com/file/d
 Após baixar, utilize o comando:
 
 ```sh
-$ cat dump_mdigital_030423_10h19.sql | docker exec -i dev-db-1 /usr/bin/mysql -u root --password=root maturidade_digital
+$ cat {nome_do_dump}.sql | docker exec -i {nome_da_imagem} /usr/bin/mysql -u {user} --password={password} maturidade_digital
 ```
 
 Acesso:
