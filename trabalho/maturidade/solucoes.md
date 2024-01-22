@@ -2,10 +2,10 @@
 title: Notas
 description: 
 published: true
-date: 2024-01-19T15:00:11.219Z
+date: 2024-01-22T09:10:07.174Z
 tags: 
 editor: markdown
-dateCreated: 2024-01-19T14:59:32.262Z
+dateCreated: 2024-01-20T09:14:48.346Z
 ---
 
 # Notas
@@ -16,6 +16,11 @@ dateCreated: 2024-01-19T14:59:32.262Z
 > USE maturidade_digital;
 > SELECT * FROM users WHERE id=1001;
 > UPDATE users SET last_password_reset =NOW() where id=1001;
+> ```
 {.is-info}
 
-```
+
+
+> Para mandar uma task para uma coluna específica no board do DevOps, basta inserir o seguinte texto na descrição do pr:
+>`#{n° da task}`
+{.is_info}
