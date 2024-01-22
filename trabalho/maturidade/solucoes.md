@@ -2,7 +2,7 @@
 title: Notas
 description: 
 published: true
-date: 2024-01-22T09:10:07.174Z
+date: 2024-01-22T09:23:45.650Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-20T09:14:48.346Z
@@ -22,5 +22,5 @@ dateCreated: 2024-01-20T09:14:48.346Z
 
 
 > Para mandar uma task para uma coluna específica no board do DevOps, basta inserir o seguinte texto na descrição do pr:
->`#{n° da task}`
+>`{nome da coluna}:#{n° da task}`
 {.is_info}
