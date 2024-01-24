@@ -2,7 +2,7 @@
 title: Notas
 description: 
 published: true
-date: 2024-01-22T09:23:49.795Z
+date: 2024-01-24T17:09:36.082Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-20T09:14:48.346Z
@@ -24,3 +24,11 @@ dateCreated: 2024-01-20T09:14:48.346Z
 > Para mandar uma task para uma coluna específica no board do DevOps, basta inserir o seguinte texto na descrição do pr:
 >`{nome da coluna}:#{n° da task}`
 {.is_info}
+
+> Caso ocorra algum problema de regra de lgpd tente rodar as migrations
+{.is_info}
+
+> Caso suba algum package.lock.json indesejado, basta utilizar esse comando:
+> ```shell
+> $ git checkout preview -- package-lock.json
+> ```
