@@ -2,10 +2,10 @@
 title: Notas
 description: 
 published: true
-date: 2024-01-24T17:09:36.082Z
+date: 2024-02-07T17:24:06.999Z
 tags: 
 editor: markdown
-dateCreated: 2024-01-20T09:14:48.346Z
+dateCreated: 2024-02-06T19:57:32.000Z
 ---
 
 # Notas
@@ -31,4 +31,9 @@ dateCreated: 2024-01-20T09:14:48.346Z
 > Caso suba algum package.lock.json indesejado, basta utilizar esse comando:
 > ```shell
 > $ git checkout preview -- package-lock.json
+> ```
+
+> Caso eu queria inserir um dump da cni no meu projeto, é necessário antes de fazer o cat renomear o define dos usuários:
+> ```
+> sed -i 's/DEFINER=usr_maturidadedigital@/DEFINER=root@root/g' {nome_do_dump}.sql
 > ```
