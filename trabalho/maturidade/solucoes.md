@@ -2,7 +2,7 @@
 title: Notas
 description: 
 published: true
-date: 2024-02-07T17:24:06.999Z
+date: 2024-02-07T17:40:10.753Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T19:57:32.000Z
