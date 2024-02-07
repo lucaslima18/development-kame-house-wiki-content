@@ -2,7 +2,7 @@
 title: Notas
 description: 
 published: true
-date: 2024-02-07T17:40:10.753Z
+date: 2024-02-07T17:55:34.085Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T19:57:32.000Z
@@ -35,5 +35,18 @@ dateCreated: 2024-02-06T19:57:32.000Z
 
 > Caso eu queria inserir um dump da cni no meu projeto, é necessário antes de fazer o cat renomear o define dos usuários:
 > ```
-> sed -i 's/DEFINER=usr_maturidadedigital@/DEFINER=root@root/g' {nome_do_dump}.sql
+> $ sed -i 's/DEFINER=usr_maturidadedigital@/DEFINER=root@root/g' {nome_do_dump}.sql
 > ```
+> Após isso você deve copiar o arquivo de dump para o banco dentro do docker utilizando o seguinte comando:
+>```
+> $ docker cp {nome_do_dump}.sql {nome_do_container}:/{nome_do_dump}.sql
+>```
+> Agora precisamos entrar dentro do container para podermos aplicar o dump:
+> ```
+> $ docker exec -it {nome_do_container} bash
+> ```
+> uma vez dentro do container, vamos nos conectar ao mysql, dropar o banco e criar novamente (caso queira)
+> ```
+>	$ mysql -c -u {username} -p
+> ```
+
