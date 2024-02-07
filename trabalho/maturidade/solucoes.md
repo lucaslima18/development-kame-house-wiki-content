@@ -2,7 +2,7 @@
 title: Notas
 description: 
 published: true
-date: 2024-02-07T17:55:34.085Z
+date: 2024-02-07T17:58:47.136Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T19:57:32.000Z
@@ -45,8 +45,14 @@ dateCreated: 2024-02-06T19:57:32.000Z
 > ```
 > $ docker exec -it {nome_do_container} bash
 > ```
-> uma vez dentro do container, vamos nos conectar ao mysql, dropar o banco e criar novamente (caso queira)
+> uma vez dentro do container, vamos nos conectar ao mysql, dropar o banco e criar novamente (caso queira):
 > ```
 >	$ mysql -c -u {username} -p
+> $ drop database {nome_do_banco};
+> $ create database {nome_do_banco};
 > ```
-
+> por fim, vamos utilizar o banco para aplicar o dump:
+> ```
+>	$ use {nome_do_banco};
+> $ source {nome_do_dump}.sql
+> ```
