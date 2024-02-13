@@ -2,10 +2,10 @@
 title: Observações
 description: 
 published: true
-date: 2024-01-11T10:54:47.548Z
+date: 2024-02-06T19:57:05.188Z
 tags: 
 editor: markdown
-dateCreated: 2023-12-10T17:55:27.082Z
+dateCreated: 2024-02-06T19:57:04.025Z
 ---
 
 # Observações

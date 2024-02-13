@@ -2,10 +2,10 @@
 title: Lista de desejos - Escritório
 description: 
 published: true
-date: 2024-01-24T14:22:45.315Z
+date: 2024-02-06T19:57:23.472Z
 tags: 
 editor: markdown
-dateCreated: 2023-12-30T02:47:45.681Z
+dateCreated: 2024-02-06T19:57:22.315Z
 ---
 
 # Lista de desejos - Escritório

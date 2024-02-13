@@ -2,10 +2,10 @@
 title: Planejamento - Fevereiro 2024
 description: 
 published: true
-date: 2023-12-30T02:36:38.370Z
+date: 2024-02-06T19:57:20.051Z
 tags: 
 editor: markdown
-dateCreated: 2023-12-30T02:36:38.370Z
+dateCreated: 2024-02-06T19:57:18.897Z
 ---
 
 # Header

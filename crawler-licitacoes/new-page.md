@@ -2,10 +2,10 @@
 title: Rascunhos
 description: 
 published: true
-date: 2023-12-13T03:00:38.610Z
+date: 2024-02-06T19:57:01.740Z
 tags: 
 editor: markdown
-dateCreated: 2023-12-13T02:10:07.877Z
+dateCreated: 2024-02-06T19:57:00.481Z
 ---
 
 # Lógica de biddings

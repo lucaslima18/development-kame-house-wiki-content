@@ -2,10 +2,10 @@
 title: README
 description: 
 published: true
-date: 2023-12-29T20:49:51.576Z
+date: 2024-02-06T19:57:06.939Z
 tags: 
 editor: markdown
-dateCreated: 2023-12-29T20:13:02.232Z
+dateCreated: 2024-02-06T19:57:05.729Z
 ---
 
 # LicitaS
