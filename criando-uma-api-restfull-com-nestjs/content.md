@@ -2,7 +2,7 @@
 title: Primeiros Passos
 description: 
 published: true
-date: 2024-02-06T19:57:26.880Z
+date: 2024-03-06T13:12:59.957Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T19:57:07.488Z

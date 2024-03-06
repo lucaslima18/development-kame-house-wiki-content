@@ -2,7 +2,7 @@
 title: Instalando Angular CLI / primeiro projeto
 description: 
 published: true
-date: 2024-03-04T19:15:01.010Z
+date: 2024-03-06T13:13:11.492Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-04T18:19:20.141Z

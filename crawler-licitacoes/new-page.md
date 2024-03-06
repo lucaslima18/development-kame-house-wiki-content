@@ -2,7 +2,7 @@
 title: Rascunhos
 description: 
 published: true
-date: 2024-02-06T19:57:01.740Z
+date: 2024-03-06T13:12:42.423Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T19:57:00.481Z
